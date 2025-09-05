@@ -88,11 +88,11 @@ Health Portal Solutions develops **comprehensive healthcare technology platforms
 `mermaid
 graph TD
     A[Healthcare Platform] --> B[👥 Member Portal]
-    A --> C[🏥 Provider Portal] 
+    A --> C🏥 [ Provider Portal] 
     A --> D[🏢 Employer Portal]
     A --> E[🤝 Broker Portal]
     A --> F[⚙️ Admin Portal]
-    A --> G[📊 Analytics Portal]
+    A --> G📊 [ Analytics Portal]
     A --> H[🔧 API Portal]
     
     B --> I[Benefits Management]
@@ -137,16 +137,16 @@ graph TD
 ## 🚀 **Getting Started**
 
 ### 📖 **New to Health Portal Solutions?**
-Start with our **[📋 Documentation Hub](https://github.com/Health-Portal-Solutions/hps-documentation)** for comprehensive guides, API references, and platform overviews.
+Start with our **📋 [Documentation Hub](https://github.com/Health-Portal-Solutions/hps-documentation)** for comprehensive guides, API references, and platform overviews.
 
 ### 🔌 **Ready to Integrate?**
 Check out our **[API Integrations](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/developer/api.md)** repository for SDKs, sample code, and integration guides.
 
 ### 🏥 **Healthcare Providers?**
-Explore our **[🏥 Healthcare Portal Platform](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/products/portal/README.md)** for member management, claims processing, and provider tools.
+Explore our **🏥 [Healthcare Portal Platform](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/products/portal/README.md)** for member management, claims processing, and provider tools.
 
 ### 📊 **Need Analytics?**
-Our **[📊 Analytics Engine](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/platform/overview.md)** provides real-time insights and compliance reporting.
+Our **📊 [Analytics Engine](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/platform/overview.md)** provides real-time insights and compliance reporting.
 
 ---
 
@@ -164,7 +164,7 @@ Our **[📊 Analytics Engine](https://github.com/Health-Portal-Solutions/hps-doc
 
 ### 🔗 **Quick Links**
 
-[🏠 Website](https://www.hpsglobal.net/) • [📋 Documentation](https://github.com/Health-Portal-Solutions/hps-documentation) • [🔌 API Portal](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/developer/api.md) • [🎧 Support](tel:8554906673) • [📧 Contact](https://www.hpsglobal.net/contact)
+🏠 [Website](https://www.hpsglobal.net/) • 📋 [Documentation](https://github.com/Health-Portal-Solutions/hps-documentation) • 🔌 [API Portal](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/developer/api.md) • 🎧 [Support](tel:8554906673) • 📧 [Contact](https://www.hpsglobal.net/contact)
 
 </div>
 
@@ -179,6 +179,7 @@ Our **[📊 Analytics Engine](https://github.com/Health-Portal-Solutions/hps-doc
 [![Follow](https://img.shields.io/github/followers/Health-Portal-Solutions?style=social)](https://github.com/Health-Portal-Solutions)
 
 </div>
+
 
 
 
