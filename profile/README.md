@@ -41,23 +41,23 @@ Health Portal Solutions develops **comprehensive healthcare technology platforms
 **📋 [hps-documentation](https://github.com/Health-Portal-Solutions/hps-documentation)**  
 *Central documentation hub - comprehensive platform guides*
 
-**🏥 [hps-documentation/blob/main/products/portal/README.md](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/products/portal/README.md)**  
+**🏥 [healthcare-portal-platform](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/products/portal/README.md)**  
 *Seven-portal healthcare management ecosystem*
 
-**⚡ [hps-documentation/blob/main/products/etl/README.md](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/products/etl/README.md)**  
+**⚡ [healthcare-etl-system](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/products/etl/README.md)**  
 *720M+ record processing engine with HIPAA compliance*
 
 </td>
 <td width="50%">
 
 ### 🔧 **Development Tools**
-**🔌 [hps-documentation/blob/main/developer/api.md](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/developer/api.md)**  
+**🔌 [hps-api-integrations](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/developer/api.md)**  
 *API clients, SDKs, and integration tools*
 
-**🔒 [hps-documentation/blob/main/security/hipaa-compliance.md](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/security/hipaa-compliance.md)**  
+**🔒 [hps-security-framework](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/security/hipaa-compliance.md)**  
 *HIPAA compliance and security utilities*
 
-**📊 [hps-documentation/blob/main/platform/overview.md](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/platform/overview.md)**  
+**📊 [hps-analytics-engine](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/platform/overview.md)**  
 *Healthcare data analytics and reporting platform*
 
 </td>
@@ -179,6 +179,8 @@ Our **[📊 Analytics Engine](https://github.com/Health-Portal-Solutions/hps-doc
 [![Follow](https://img.shields.io/github/followers/Health-Portal-Solutions?style=social)](https://github.com/Health-Portal-Solutions)
 
 </div>
+
+
 
 
 
