@@ -38,26 +38,26 @@ Health Portal Solutions develops **comprehensive healthcare technology platforms
 <td width="50%">
 
 ### 🏥 **Core Platform**
-**📋 [hps-documentation](https://github.com/Health-Portal-Solutions/hps-documentation)**  
+**[Documentation Hub](https://github.com/Health-Portal-Solutions/hps-documentation)**  
 *Central documentation hub - comprehensive platform guides*
 
-**🏥 [healthcare-portal-platform](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/products/portal/README.md)**  
+**[Healthcare Portal Platform](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/products/portal/README.md)**  
 *Seven-portal healthcare management ecosystem*
 
-**⚡ [healthcare-etl-system](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/products/etl/README.md)**  
+**⚡ [Healthcare ETL System](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/products/etl/README.md)**  
 *720M+ record processing engine with HIPAA compliance*
 
 </td>
 <td width="50%">
 
 ### 🔧 **Development Tools**
-**🔌 [hps-api-integrations](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/developer/api.md)**  
+**[API Integrations](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/developer/api.md)**  
 *API clients, SDKs, and integration tools*
 
-**🔒 [hps-security-framework](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/security/hipaa-compliance.md)**  
+**🔒 [Security Framework](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/security/hipaa-compliance.md)**  
 *HIPAA compliance and security utilities*
 
-**📊 [hps-analytics-engine](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/platform/overview.md)**  
+**[Analytics Engine](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/platform/overview.md)**  
 *Healthcare data analytics and reporting platform*
 
 </td>
@@ -140,7 +140,7 @@ graph TD
 Start with our **[📋 Documentation Hub](https://github.com/Health-Portal-Solutions/hps-documentation)** for comprehensive guides, API references, and platform overviews.
 
 ### 🔌 **Ready to Integrate?**
-Check out our **🔌 [API Integrations](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/developer/api.md)** repository for SDKs, sample code, and integration guides.
+Check out our **[API Integrations](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/developer/api.md)** repository for SDKs, sample code, and integration guides.
 
 ### 🏥 **Healthcare Providers?**
 Explore our **[🏥 Healthcare Portal Platform](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/products/portal/README.md)** for member management, claims processing, and provider tools.
@@ -164,7 +164,7 @@ Our **[📊 Analytics Engine](https://github.com/Health-Portal-Solutions/hps-doc
 
 ### 🔗 **Quick Links**
 
-🏠 [Website](https://www.hpsglobal.net/) • [📋 Documentation](https://github.com/Health-Portal-Solutions/hps-documentation) • 🔌 [API Portal](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/developer/api.md) • 🎧 [Support](tel:8554906673) • 📧 [Contact](https://www.hpsglobal.net/contact)
+[🏠 Website](https://www.hpsglobal.net/) • [📋 Documentation](https://github.com/Health-Portal-Solutions/hps-documentation) • [🔌 API Portal](https://github.com/Health-Portal-Solutions/hps-documentation/blob/main/developer/api.md) • [🎧 Support](tel:8554906673) • [📧 Contact](https://www.hpsglobal.net/contact)
 
 </div>
 
@@ -179,6 +179,8 @@ Our **[📊 Analytics Engine](https://github.com/Health-Portal-Solutions/hps-doc
 [![Follow](https://img.shields.io/github/followers/Health-Portal-Solutions?style=social)](https://github.com/Health-Portal-Solutions)
 
 </div>
+
+
 
 
 
